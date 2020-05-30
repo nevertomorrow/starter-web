@@ -11,3 +11,6 @@ Git.Training. 2020
 
 
 fork for review
+
+## Rebase
+My rebasing
