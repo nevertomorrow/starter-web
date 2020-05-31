@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 Git.Training. 2020
 
 
-fork for review
+fork for review all rights reserved
 
 ## Rebase
 My rebasing
