@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 more changes from myfeature branch
-
+Update a line after a fix
 
 ## Purpose
 
